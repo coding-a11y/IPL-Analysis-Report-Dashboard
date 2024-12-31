@@ -1,9 +1,10 @@
 # IPL-Analysis-Report-Dashboard
 
 ### Dashboard Link - https://app.powerbi.com/links/xrscK1X8ir?ctid=a1a4ee51-99fa-437d-8ba7-d05192f6c077&pbi_source=linkShare&bookmarkGuid=8b51ee26-60c2-4468-836d-52bb80b29cdf
+
+![image](https://github.com/user-attachments/assets/29e88c01-bb70-4de8-b133-305b1d38e46d)
+
 ## Problem Statement
-
-
 
 IPL Performance Analysis Dashboard in Power BI
 This report analyzes IPL (Indian Premier League) performance data to help teams, coaches, and analysts improve team strategies, enhance player performance, and optimize match outcomes. The report was created in Power BI Desktop and subsequently published to Power BI Service. Key insights, metrics, and visualizations were derived to assist in making data-driven decisions and optimizing team and player performance during IPL matches.
